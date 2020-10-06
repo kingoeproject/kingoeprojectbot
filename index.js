@@ -239,7 +239,7 @@ msg.reply(`
  
  
  ----------------------------------
-  👾 InsideBot 2020👾
+          KINGOE PROJECT BOT
  
  `); 
 });
@@ -275,7 +275,7 @@ msg.reply(`
  
  
  ----------------------------------
-  👾 InsideBot 2020 👾
+           KINGOE PROJECT BOT
  
  `); 
 });
@@ -314,7 +314,7 @@ Nama : *${data.title}*
 Artis : *${data.artist}*
 
 
-      Whatsapp Ytmp3 By _FDCI Bot_
+      Whatsapp Ytmp3 By
 `);
 chat.sendMessage(media);
 });
@@ -345,7 +345,7 @@ msg.reply(
          Nama _*${nama}*_ ${h}
   ----------------------------------
 
-  _InsideBot_
+            KINGOE PROJECT BOT
 `
         );
 });
@@ -381,7 +381,7 @@ console.log(""+ h);
          Nama ${h}
   ----------------------------------
 
-  _Primbon WhatsApp By InsideBot_
+  Primbon WhatsApp KINGOE PROJECT BOT
 `
         );
 });
@@ -398,7 +398,7 @@ client.sendMessage(
  ${body}
 
 
-Powered by _fdcibot_
+KINGOE PROJECT BOT
 `));
 }
  else if (msg.body.startsWith("!cek ")) {
@@ -414,7 +414,7 @@ client.sendMessage(
  ${body}
 
 
-Powered by _fdcibot_
+KINGOE PROJECT BOT
 `));
 }
 else if (msg.body.startsWith("!fb ")) {
@@ -641,9 +641,10 @@ else if (msg.body.startsWith("!fb ")) {
     client.sendMessage(
       msg.from,
       `  
- ~~~~~  *INSIDE BOT*  ~~~~~
+ ————— KINGOE PROJECT BOT ——————
 
-🍻 -> Menu --| Misc / Just For Fun|-- 🍻
+
+———————— MENU | KINGOE PROJECT BOT ————————
 
 🧷  *'!nama'* Cari arti namamu
 
@@ -664,7 +665,7 @@ Contoh !nama Maudy Ayunda
 
  contoh !pasangan Ali & Ayu
 
-🍻 -> Menu --| Downloader |-- 🍻
+ -> Menu --| Downloader |--
 
 🧷  *'!ytmp3 <optional>'* Youtube to MP3
 🧷  *'!fb <optional>'* Facebook video downloader
@@ -672,7 +673,7 @@ Contoh !nama Maudy Ayunda
 
 More features is cooming soon
 
-🔐 -----  INSIDE BOT ----- 🔐
+🔐 -----  KINGOE PROJECT BOT ----- 🔐
 			
 
 
@@ -834,7 +835,7 @@ More features is cooming soon
        _${item.id}_
   ----------------------------------
 
-  _Al-Quran WhatsApp By Abdul Muttaqin_
+  ———— Al-Quran WhatsApp ————
 `
           );
         });
